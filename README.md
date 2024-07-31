@@ -22,6 +22,7 @@ versions 2004-vs-2010-vs-2022: https://www.reddit.com/r/linux/comments/tfkwgk/ub
 sudo update-initramfs -u
 # WARNING: You will get some error message on the first restart, but it looks okay after that !?
 ```
+
 **login screen:**
 /usr/share/plymouth/ubuntu-logo.png
 
