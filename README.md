@@ -27,6 +27,5 @@ sudo update-initramfs -u
 /usr/share/plymouth/ubuntu-logo.png
 
 **Show Apps icon:**
-/usr/share/icons/* (many places) start-here.svg, start-here-dark.svg, start-here-symbolic.svg
-
-(I can't remember exactly which `start-here.svg` should be changed because I am using https://extensions.gnome.org/extension/1160/dash-to-panel/ and I get to choose my icon from there...)
+/usr/share/icons/Yaru/scalable/places/start-here-symbolic.svg
+(Many other `start-here.svg` can be found in /usr/share/icons/... I am using https://extensions.gnome.org/extension/1160/dash-to-panel/ and I get to choose my icon from there...)
