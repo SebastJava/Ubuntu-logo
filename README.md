@@ -18,10 +18,13 @@ versions 2004-vs-2010-vs-2022: https://www.reddit.com/r/linux/comments/tfkwgk/ub
 **Plymouth theme, i.e. boot sequence:**
 /usr/share/plymouth/themes/spinner/watermark.png
 (same as /usr/share/plymouth/ubuntu-logo.png)
+
 ```
-# You must update your Plymouth theme after having changed this watermark.png... 
+# You must update your initramfs after having changed this Plymouth
+# watermark.png, this way:
 sudo update-initramfs -u
-# WARNING: You will get some error message on the first restart, but it looks okay after that !?
+# WARNING: Please disable your Kernel Livepatch to avoid some error
+# message on first restart... (Software & Updates > Ubuntu Pro)
 ```
 
 **login screen:**
