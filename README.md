@@ -17,6 +17,7 @@ versions 2004-vs-2010-vs-2022: https://www.reddit.com/r/linux/comments/tfkwgk/ub
 
 **Plymouth theme, i.e. boot sequence:**
 /usr/share/plymouth/themes/spinner/watermark.png
+(same as /usr/share/plymouth/ubuntu-logo.png)
 ```
 # You must update your Plymouth theme after having changed this watermark.png... 
 sudo update-initramfs -u
@@ -25,6 +26,7 @@ sudo update-initramfs -u
 
 **login screen:**
 /usr/share/plymouth/ubuntu-logo.png
+(same as /usr/share/plymouth/themes/spinner/watermark.png)
 
 **Show Apps icon:**
 /usr/share/icons/Yaru/scalable/places/start-here-symbolic.svg
