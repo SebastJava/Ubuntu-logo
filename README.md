@@ -4,6 +4,8 @@
 
 There is no innovation here. It is still the same logo, with just a few pixels difference.
 
+> Ubuntu means "a humanist and ethic philosophy concentrating on the relations and allegiances of the people with each other". The Ubuntu logo can be described as the graphical illustration of three people holding their arms out and making a circle.
+
 The 2022 version of the logo is excellent, it is a good concept that does not need to be explained. But its execution is not perfect. A keen eye sees subtle approximations, and that is disturbing.
 
 ![Presentation-Ubuntu-logo-v2022-wrong](Presentation-Ubuntu-logo-v2022-wrong.svg)
