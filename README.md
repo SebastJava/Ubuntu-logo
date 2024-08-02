@@ -22,7 +22,7 @@ Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all
 
 A more precisely executed logo would set the tone for the rest of the distribution...
 
-### URLs
+### URL resources
 
 version 2022: https://design.ubuntu.com/resources
 version 2022: https://assets.ubuntu.com/v1/a7e3c509-Canonical%20Ubuntu.svg
@@ -33,26 +33,37 @@ version 2010: https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg
 
 versions 2004-vs-2010-vs-2022: https://www.reddit.com/r/linux/comments/tfkwgk/ubuntu_has_a_brand_new_logo/
 
-# -HOW TO UPDATE-
+### Update your local files
 
-### Local files
+**First**, [Download](https://github.com/SebastJava/Ubuntu-logo/archive/refs/heads/main.zip) and extract this ZIP directory.
 
-**Plymouth theme, i.e. boot sequence:**
-/usr/share/plymouth/themes/spinner/watermark.png
-(same as /usr/share/plymouth/ubuntu-logo.png)
+**Next**, open your terminal into this directory. Example:
 
 ```
-# You must update your initramfs after having changed this Plymouth
-# watermark.png, this way:
+cd ~/Downloads/Ubuntu-logo-main
+```
+
+**Replace the "Show Apps" icon:**
+
+```
+sudo cp start-here-symbolic.svg /usr/share/icons/Yaru/scalable/places/start-here-symbolic.svg
+```
+
+NOTE: If you are using [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) you can easily choose your start icon from there.
+
+**Boot sequence and login screen:**
+
+```
+sudo cp ubuntu-logo-v2024-plymouth.png /usr/share/plymouth/themes/spinner/watermark.png
+sudo cp ubuntu-logo-v2024-plymouth.png /usr/share/plymouth/ubuntu-logo.png
+```
+
+You must update your initramfs after having changed this Plymouth theme:
+
+```
 sudo update-initramfs -u
-# WARNING: Please disable your Kernel Livepatch to avoid some error
-# message on first restart... (Software & Updates > Ubuntu Pro)
 ```
 
-**login screen:**
-/usr/share/plymouth/ubuntu-logo.png
-(same as /usr/share/plymouth/themes/spinner/watermark.png)
+WARNING: Please disable your Kernel Livepatch to avoid some weird Plymouth on first restart... (Go to Software & Updates > Ubuntu Pro)
 
-**Show Apps icon:**
-/usr/share/icons/Yaru/scalable/places/start-here-symbolic.svg
-(Many other `start-here.svg` can be found in /usr/share/icons/... I am using https://extensions.gnome.org/extension/1160/dash-to-panel/ and I get to choose my icon from there...)
+RESTART your computer to see your updated logos on the boot sequence, login screen and dash.
