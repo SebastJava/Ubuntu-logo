@@ -26,12 +26,12 @@ A more precisely executed logo would set the tone for the rest of the distributi
 
 ### URL resources
 
-version 2022: https://design.ubuntu.com/resources
-version 2022: https://assets.ubuntu.com/v1/a7e3c509-Canonical%20Ubuntu.svg
+version 2022: https://design.ubuntu.com/resources  
+version 2022: https://assets.ubuntu.com/v1/a7e3c509-Canonical%20Ubuntu.svg  
 (version 2022 = current version)
 
-version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg
-version 2010: https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg
+version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg  
+version 2010: https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg  
 
 versions 2004-vs-2010-vs-2022: https://www.reddit.com/r/linux/comments/tfkwgk/ubuntu_has_a_brand_new_logo/
 
