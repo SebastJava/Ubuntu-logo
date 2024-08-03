@@ -1,4 +1,4 @@
-![Presentation-Ubuntu-logo-v2022-vs-v2024](Presentation-Ubuntu-logo-v2022-vs-v2024.svg)
+![Presentation-Ubuntu-logo-v2022-vs-v2024](Presentation/Presentation-Ubuntu-logo-v2022-vs-v2024.svg)
 
 ## The Ubuntu logo redone in a more precise way
 
@@ -8,11 +8,11 @@ There is no innovation here. It is still the same logo, with just a few pixels d
 
 The 2022 version of the logo is excellent, it is a good concept that does not need to be explained. But its execution is not perfect. A keen eye sees subtle approximations, and that is disturbing.
 
-![Presentation-Ubuntu-logo-v2022-wrong](Presentation-Ubuntu-logo-v2022-wrong.svg)
+![Presentation-Ubuntu-logo-v2022-wrong](Presentation/Presentation-Ubuntu-logo-v2022-wrong.svg)
 
 The current version of the Ubuntu logo, this 2022 version, has undergone a subtle, almost invisible rotation, and it looks like a mistake or an imperfection, IMHO. In comparison, the previous version from 2010 was made of perfect values everywhere. The 3 circles, or heads, had perfectly symmetrical rotation angles of   30°, 150°, and 270° degrees. And they also had perfectly identical diameters. But that's not the case here with this current version from 2022. The diameters are approximate, and the rotation angles are weird. It feels like a mistake. Those angles are roughly set at something like 32.75°, 152.75°, 272.75°...
 
-![Presentation-Ubuntu-logo-v2024-twisted](Presentation-Ubuntu-logo-v2024-twisted.svg)
+![Presentation-Ubuntu-logo-v2024-twisted](Presentation/Presentation-Ubuntu-logo-v2024-twisted.svg)
 
 If you wanted the logo to look less formal, less symmetrical, then I would suggest adding an obvious rotation, say 15 degrees. Otherwise, it just looks like a mistake to me.
 
@@ -70,4 +70,4 @@ WARNING: Please disable your Kernel Livepatch to avoid some weird Plymouth on fi
 
 RESTART your computer to see your updated logos on the boot sequence, login screen and dash.
 
-![Dash-preview](Dash-preview.svg)
+![Presentation-Dash-preview](Presentation/Presentation-Dash-preview.svg)
