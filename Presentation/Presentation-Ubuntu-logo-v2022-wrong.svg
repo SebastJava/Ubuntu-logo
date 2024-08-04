@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   viewBox="0 0 1560 700.00003"
+   viewBox="0 0 1660 700.00003"
    id="svg6"
    sodipodi:docname="Presentation-Ubuntu-logo-v2022-wrong.svg"
-   width="1560"
+   width="1660"
    height="700"
    inkscape:version="1.3.2 (1:1.3.2+202404261509+091e20ef0f)"
+   inkscape:export-filename="Presentation-Ubuntu-logo-v2022-wrong.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,37 +23,38 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.72948718"
-     inkscape:cx="780"
-     inkscape:cy="350.24605"
+     inkscape:zoom="0.88554217"
+     inkscape:cx="830"
+     inkscape:cy="349.5034"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6"
+     showgrid="false" />
   <defs
      id="defs6" />
   <rect
      style="fill:#ffffff;stroke:none;stroke-width:1;stroke-linejoin:bevel"
      id="rect1"
-     width="1560"
-     height="650"
+     width="1660"
+     height="630"
      x="0"
-     y="0" />
+     y="20" />
   <g
      id="g9">
     <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke-width:0;stroke-linejoin:bevel"
        id="rect2"
-       width="1560"
+       width="1660"
        height="50"
        x="0"
        y="650" />
     <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel"
        id="rect3"
-       width="1560"
+       width="1660"
        height="20"
        x="0"
        y="0" />
@@ -60,7 +64,7 @@
        id="path9" />
     <path
        style="fill:none;fill-opacity:1;stroke:#f2f2f2;stroke-width:2;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1559,0 V 700"
+       d="M 1659,0 V 700"
        id="path9-7" />
   </g>
   <g
@@ -68,82 +72,99 @@
   <text
      xml:space="preserve"
      style="font-size:32px;line-height:39.9999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0;stroke-linejoin:bevel"
-     x="780.25"
+     x="829.88281"
      y="683.82812"
      id="text1"><tspan
        sodipodi:role="line"
        id="tspan1"
-       x="780.25"
+       x="829.88281"
        y="683.82812"
-       style="fill:#808080;fill-opacity:1">Current version from 2022: weird, erratic looking angles and uneven widths</tspan></text>
+       style="fill:#808080;fill-opacity:1">Current version 2022: strange rotation angles</tspan></text>
   <path
-     d="m 883.6445,425.92203 a 72.912675,72.912675 0 0 1 72.86044,72.86043 72.912675,72.912675 0 0 1 -72.86044,72.9475 72.912675,72.912675 0 0 1 -72.9475,-72.9475 72.912675,72.912675 0 0 1 72.9475,-72.86043 z"
+     d="m 933.27731,425.92203 a 72.912675,72.912675 0 0 1 72.86049,72.86043 72.912675,72.912675 0 0 1 -72.86049,72.9475 72.912675,72.912675 0 0 1 -72.9475,-72.9475 72.912675,72.912675 0 0 1 72.9475,-72.86043 z"
      id="path1"
      style="fill:#808080;stroke-width:1" />
   <path
-     d="m 640.47747,405.6806 a 175.86102,175.86102 0 0 0 120.81303,92.50115 62.900785,62.900785 0 0 0 17.85425,2.80551 102.51304,102.51304 0 0 0 21.76498,60.95935 239.41475,239.41475 0 0 1 -51.60476,-5.44125 236.58531,236.58531 0 0 1 -170.8899,-143.25708 105.12484,105.12484 0 0 0 62.06501,-7.56681 z"
+     d="m 690.11028,405.6806 a 175.86102,175.86102 0 0 0 120.81303,92.50115 62.900785,62.900785 0 0 0 17.85425,2.80551 102.51304,102.51304 0 0 0 21.76498,60.95935 239.41475,239.41475 0 0 1 -51.60476,-5.44125 236.58531,236.58531 0 0 1 -170.8899,-143.25708 105.12484,105.12484 0 0 0 62.06501,-7.56681 z"
      id="path2"
      style="fill:#808080;stroke-width:1" />
   <path
-     d="m 596.94751,238.02062 a 72.912675,72.912675 0 0 1 72.9475,72.9475 72.912675,72.912675 0 0 1 -72.9475,72.9475 72.912675,72.912675 0 0 1 -72.9475,-72.9475 72.912675,72.912675 0 0 1 72.9475,-72.9475 z"
+     d="m 646.58032,238.02062 a 72.912675,72.912675 0 0 1 72.9475,72.9475 72.912675,72.912675 0 0 1 -72.9475,72.9475 72.912675,72.912675 0 0 1 -72.9475,-72.9475 72.912675,72.912675 0 0 1 72.9475,-72.9475 z"
      id="path3"
      style="fill:#808080;stroke-width:1" />
   <path
-     d="m 996.77886,192.95841 a 239.41475,239.41475 0 0 1 -11.98772,279.28819 99.683597,99.683597 0 0 0 -34.85792,-53.98585 175.86102,175.86102 0 0 0 22.87021,-56.62376 178.90812,178.90812 0 0 0 -16.91879,-120.72598 105.56014,105.56014 0 0 0 40.89422,-47.9526 z"
+     d="m 1046.4117,192.95841 a 239.41475,239.41475 0 0 1 -11.9877,279.28819 99.683597,99.683597 0 0 0 -34.85797,-53.98585 175.86102,175.86102 0 0 0 22.87017,-56.62376 178.90812,178.90812 0 0 0 -16.9187,-120.72598 105.56014,105.56014 0 0 0 40.8942,-47.9526 z"
      id="path4"
      style="fill:#808080;stroke-width:1" />
   <path
-     d="m 794.10774,85.918253 a 239.41475,239.41475 0 0 1 22.44491,0.680155 100.77185,100.77185 0 0 0 -19.97938,42.424732 139.73116,139.73116 0 0 0 -2.21049,16.32373 176.73162,176.73162 0 0 0 -143.17438,76.60402 105.34249,105.34249 0 0 0 -33.15763,-13.688 101.20715,101.20715 0 0 0 -21.76498,-2.21049 h -5.44124 A 239.41475,239.41475 0 0 1 794.10508,85.918427 Z"
+     d="m 843.74055,85.918253 a 239.41475,239.41475 0 0 1 22.44491,0.680155 100.77185,100.77185 0 0 0 -19.97938,42.424732 139.73116,139.73116 0 0 0 -2.21049,16.32373 176.73162,176.73162 0 0 0 -143.17438,76.60402 105.34249,105.34249 0 0 0 -33.15763,-13.688 101.20715,101.20715 0 0 0 -21.76498,-2.21049 h -5.44124 A 239.41475,239.41475 0 0 1 843.73789,85.918427 Z"
      id="path5"
      style="fill:#808080;stroke-width:1" />
   <path
-     d="m 899.96824,78.27004 a 72.912675,72.912675 0 0 1 72.86043,72.9475 72.912675,72.912675 0 0 1 -72.86043,72.86044 72.912675,72.912675 0 0 1 -72.9475,-72.86044 72.912675,72.912675 0 0 1 72.9475,-72.9475 z"
+     d="m 949.60105,78.27004 a 72.912675,72.912675 0 0 1 72.86045,72.9475 72.912675,72.912675 0 0 1 -72.86045,72.86044 72.912675,72.912675 0 0 1 -72.9475,-72.86044 72.912675,72.912675 0 0 1 72.9475,-72.9475 z"
      id="path6"
      style="fill:#808080;stroke-width:1" />
   <path
      style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     d="M 972.82867,69 V 581"
+     d="M 1022.4615,69 V 581"
      id="path7"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     d="M 826.52073,69 V 581"
+     d="M 876.15354,69 V 581"
      id="path7-6"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     d="M 1036,325 H 524"
+     d="M 1085.6328,325 H 573.63281"
      id="path8"
      sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     x="596.94751"
-     y="310.96814"
+     style="font-size:24px;line-height:23.9999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+     x="646.58032"
+     y="299.92432"
      id="text9"><tspan
        sodipodi:role="line"
        id="tspan9"
-       x="596.94751"
-       y="310.96814"
-       style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1;stroke:none">w: 145.895</tspan></text>
+       x="646.58032"
+       y="299.92432"
+       style="font-size:24px;line-height:23.9999px;fill:#ffffff;fill-opacity:1;stroke:none">width:</tspan><tspan
+       sodipodi:role="line"
+       x="646.58032"
+       y="323.92422"
+       style="font-size:24px;line-height:23.9999px;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="tspan2">145.895</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     x="899.92468"
-     y="151.17401"
+     style="font-size:24px;line-height:23.9999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+     x="949.5575"
+     y="140.13019"
      id="text10"><tspan
        sodipodi:role="line"
        id="tspan10"
-       x="899.92468"
-       y="151.17401">w: 145.808</tspan></text>
+       x="949.5575"
+       y="140.13019"
+       style="font-size:24px;line-height:23.9999px">width:</tspan><tspan
+       sodipodi:role="line"
+       x="949.5575"
+       y="164.1301"
+       id="tspan3"
+       style="font-size:24px;line-height:23.9999px">145.808</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:24px;line-height:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     x="883.60095"
-     y="498.82599"
+     style="font-size:24px;line-height:23.9999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+     x="933.23376"
+     y="487.78217"
      id="text11"><tspan
        sodipodi:role="line"
        id="tspan11"
-       x="883.60095"
-       y="498.82599">w: 145.808</tspan></text>
+       x="933.23376"
+       y="487.78217"
+       style="font-size:24px;line-height:23.9999px">width:</tspan><tspan
+       sodipodi:role="line"
+       x="933.23376"
+       y="511.78207"
+       id="tspan4"
+       style="font-size:24px;line-height:23.9999px">145.808</tspan></text>
 </svg>
