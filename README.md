@@ -16,7 +16,7 @@ The current version of the Ubuntu logo, this 2022 version, has undergone a subtl
 
 If you wanted the logo to look less formal, less symmetrical, then I would suggest adding an obvious rotation, say 15 degrees. Otherwise, it just looks like a mistake to me.
 
-Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all and it clearly carries some significance, some positive values. I don't want to change anything to this concept. I don't even want this assymetrical alternative showed here. I just want to push this standard 2024 version as showed here on top of this page. That's the same logo as the current one, but redone in a perfectly precise way.
+Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all and it clearly carries some significance, some positive values. I don't want to change anything to this concept. I don't even want this assymetrical alternative showed here. I just want to push this standard 2024 version as showed here on top of this page: [Ubuntu-logo-v2024.svg](https://github.com/SebastJava/Ubuntu-logo/blob/main/Ubuntu-logo-v2024.svg). That's the same logo as the current one, but redone in a perfectly precise way.
 
 >  The logo is the most recognisable feature of any brand identity. The
 >  Ubuntu logo is striking and clear, and it represents the brand’s core
@@ -26,9 +26,9 @@ A more precisely executed logo would set the tone for the rest of the distributi
 
 ### URL resources
 
+version 2024: [Ubuntu-logo-v2024.svg](https://github.com/SebastJava/Ubuntu-logo/blob/main/Ubuntu-logo-v2024.svg) (Proposed new version)  
 version 2022: https://design.ubuntu.com/resources (current version)  
-
-version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg  
+version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg (old version)  
 
 ### Update your local files
 
