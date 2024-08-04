@@ -32,7 +32,7 @@ version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg (old version)
 
 ### Update your local files
 
-**First**, [Download](https://github.com/SebastJava/Ubuntu-logo/archive/refs/heads/main.zip) and extract this ZIP directory.
+**First**, [Download](https://github.com/SebastJava/Ubuntu-logo/archive/refs/heads/main.zip) this repository as a ZIP file and extract it.
 
 **Next**, open your terminal into this directory. Example:
 
