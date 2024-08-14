@@ -8,22 +8,8 @@
    height="400"
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"><style
-       id="style1">
-      .cls-1 {
-        fill: none;
-      }
-
-      .cls-2 {
-        fill: #e95420;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-    </style></defs><rect
-     class="cls-2"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <rect
      width="254"
      height="400"
      id="rect-e95420ff"
