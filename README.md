@@ -26,7 +26,7 @@ A more precisely executed logo would set the tone for the rest of the distributi
 
 ### URL resources
 
-version 2024: [Ubuntu-logo-v2024.svg](https://github.com/SebastJava/Ubuntu-logo/blob/main/Ubuntu-logo-v2024.svg) (Proposed new version)  
+version 2024: [logo-v2024.svg](https://github.com/SebastJava/Ubuntu-logo/blob/main/logo-v2024.svg) (Proposed new version)  
 version 2022: https://design.ubuntu.com/resources (current version)  
 version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg (old version)  
 
