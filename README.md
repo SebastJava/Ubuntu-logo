@@ -16,17 +16,37 @@ The current version of the Ubuntu logo, this 2022 version, has undergone a subtl
 
 If you wanted the logo to look less formal, less symmetrical, then I would suggest adding an obvious rotation, say 15 degrees. Otherwise, it just looks like a mistake to me.
 
-Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all and it clearly carries some significance, some positive values. I don't want to change anything to this concept. I don't even want this assymetrical alternative showed here. I just want to push this standard 2024 version as showed here on top of this page: [Ubuntu-logo-v2024.svg](https://github.com/SebastJava/Ubuntu-logo/blob/main/Ubuntu-logo-v2024.svg). That's the same logo as the current one, but redone in a perfectly precise way.
+Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all and it clearly carries some significance, some positive values. I don't want to change anything to this concept. I don't even want this assymetrical alternative showed here. I just want to push this standard 2024 version as showed here on top of this page: [logo-v2024.svg](https://github.com/SebastJava/Ubuntu-logo/blob/main/logo-v2024.svg). That's the same logo as the current one, but redone in a perfectly precise way.
 
->  The logo is the most recognisable feature of any brand identity. The
->  Ubuntu logo is striking and clear, and it represents the brand’s core
->  values. — https://design.ubuntu.com/brand
+> **Precise**
+> Ubuntu is crisp and clean in engineering and attitude. There is beauty in the precision of the process and product.
 
-A more precisely executed logo would set the tone for the rest of the distribution...
+> Our values should be evident wherever Ubuntu is encountered, whether online or via traditional marketing material.
+
+> The Ubuntu logo is striking and clear, and it represents the brand’s core
+> values.
+
+source: https://design.ubuntu.com/brand
+
+### Method
+
+I tried to do things simply, using the appropriate tools, in order to simplify my operations and thus reduce the possibilities of errors.
+
+* **Everything was created in Inkscape,** on a semi-opaque layer above the original 2022 logo, in order to ensure very similar measurements.
+
+* The 3 small circles are identical duplicates. Their center of rotation is snapped to the center of rotation of the large circle. They rotate at exactly 120° from each other.
+
+* The large circle was converted to a path (Path > Stroke to path), then cut out using Path > Difference.
+
+* The 8 logos to be changed were downloaded from https://design.ubuntu.com/resources. Only the logos were replaced, the typography remains unchanged.
+
+* The original SVG files were well optimized, using very simple CSS classes. These CSS classes have been applied to the new logo using `sed` commands, for bulk replacements. And then everything got double-checked using Meld.
+
+That's just a quick summary, of course.
 
 ### URL resources
 
-version 2024: [logo-v2024.svg](https://github.com/SebastJava/Ubuntu-logo/blob/main/logo-v2024.svg) (Proposed new version)  
+version 2024: [Ubuntu-logo/design.ubuntu.com](https://github.com/SebastJava/Ubuntu-logo/tree/main/design.ubuntu.com) (proposed new version)  
 version 2022: https://design.ubuntu.com/resources (current version)  
 version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg (old version)  
 
