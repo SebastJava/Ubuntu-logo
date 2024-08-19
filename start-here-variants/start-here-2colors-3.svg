@@ -28,17 +28,17 @@
      y="0"
      xlink:href="#halo"
      id="use2"
-     transform="rotate(120,8.5384999,7.9995003)" />
+     transform="rotate(120,8.5385,8)" />
   <use
      x="0"
      y="0"
      xlink:href="#halo"
      id="use5"
-     transform="rotate(-120,8.5384999,7.9995003)" />
+     transform="rotate(-120,8.5385,8)" />
   <circle
      id="circle-outline"
-     cx="8.5384998"
-     cy="7.9995003"
+     cx="8.5385"
+     cy="8"
      r="7.4615002"
      class="cls-3" />
   <circle
@@ -52,13 +52,13 @@
      y="0"
      xlink:href="#head"
      id="use3"
-     transform="rotate(120,8.5384616,8)" />
+     transform="rotate(120,8.5385,8)" />
   <use
      x="0"
      y="0"
      xlink:href="#head"
      id="use4"
-     transform="rotate(-120,8.5384617,8)" />
+     transform="rotate(-120,8.5385,8)" />
   <path
      id="circle"
      class="cls-2"
