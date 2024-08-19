@@ -16,7 +16,7 @@ The current version of the Ubuntu logo, this 2022 version, has undergone a subtl
 
 If you wanted the logo to look less formal, less symmetrical, then I would suggest adding an obvious rotation, say 15 degrees. Otherwise, it just looks like a mistake to me.
 
-Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all and it clearly carries some significance, some positive values. I don't want to change anything to this concept. I don't even want this assymetrical alternative showed here. I just want to push this standard 2024 version as showed here on top of this page: [logo-v2024.svg](https://github.com/SebastJava/Ubuntu-logo/blob/main/logo-v2024.svg). That's the same logo as the current one, but redone in a perfectly precise way.
+Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all and it clearly carries some significance, some positive values. I don't want to change anything to this concept. I don't even want this assymetrical alternative showed here. I just want to push this standard 2024 version as showed here on top of this page: [logo-v2024.svg](logo-v2024.svg). That's the same logo as the current one, but redone in a perfectly precise way.
 
 > **Precise**
 > Ubuntu is crisp and clean in engineering and attitude. There is beauty in the precision of the process and product.
@@ -40,13 +40,11 @@ I tried to do things simply, using the appropriate tools, in order to simplify m
 
 * The 8 logos to be changed were downloaded from https://design.ubuntu.com/resources. Only the logos were replaced, the typography remains unchanged.
 
-* The original SVG files were well optimized, using very simple CSS classes. These CSS classes have been applied to the new logo using `sed` commands, for bulk replacements. And then everything got double-checked using Meld.
-
 That's just a quick summary, of course.
 
 ### URL resources
 
-version 2024: [Ubuntu-logo/design.ubuntu.com](https://github.com/SebastJava/Ubuntu-logo/tree/main/design.ubuntu.com) (proposed new version)  
+version 2024: [design.ubuntu.com-v2024](design.ubuntu.com-v2024) (proposed new version)  
 version 2022: https://design.ubuntu.com/resources (current version)  
 version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg (old version)  
 
@@ -84,5 +82,3 @@ sudo update-initramfs -u
 WARNING: Please disable your Kernel Livepatch to avoid some weird Plymouth on first restart... (Go to Software & Updates > Ubuntu Pro)
 
 RESTART your computer to see your updated logos on the boot sequence, login screen and dash.
-
-![Presentation-Dash-preview](Presentation/Presentation-Dash-preview.svg)
