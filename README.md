@@ -82,3 +82,5 @@ sudo update-initramfs -u
 WARNING: Please disable your Kernel Livepatch to avoid some weird Plymouth on first restart... (Go to Software & Updates > Ubuntu Pro)
 
 RESTART your computer to see your updated logos on the boot sequence, login screen and dash.
+
+![Dash-example](Dash-example.png)
