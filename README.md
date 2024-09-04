@@ -83,4 +83,4 @@ WARNING: Please disable your Kernel Livepatch to avoid some weird Plymouth on fi
 
 RESTART your computer to see your updated logos on the boot sequence, login screen and dash.
 
-![Dash-example](Dash-example.png)
+![Dash-example-2](Dash-example-2.png)
