@@ -18,7 +18,7 @@ I created many versions but the core version is [logo-v2024.svg](logo-v2024.svg)
 
 WARNING: This core drawing is a white drawing on a transparent background, so you may need to change your desktop or GitHub from light to dark.
 
-![](/home/sebastien/snap/marktext/9/.config/marktext/images/2025-03-04-21-46-03-logo-v2024.png)
+![logo-v2024.png](logo-v2024.png)
 
 Okay, it's just a logo. But it's the first thing I see when I start my computer. A well-designed logo will inspire all my work. Here are some excerpts from [Our brand values](https://design.ubuntu.com/brand) :
 
