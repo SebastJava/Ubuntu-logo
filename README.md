@@ -2,32 +2,39 @@
 
 ![Presentation-Ubuntu-logo-v2022-vs-v2024](Presentation/Presentation-Ubuntu-logo-v2022-vs-v2024.png)
 
-## The Ubuntu logo redone in a more precise way
+## The Ubuntu Logo Redone In A More Precise Way
 
-There is no innovation here. It is still the same logo, with just a few pixels difference.
-
-The 2022 version of the logo is excellent, it is a good concept that does not need to be explained. But its execution is not perfect. A keen eye sees subtle approximations, and that is disturbing.
+Your logo has a good concept and looks good. But it seems subtly imperfect, to me. At first glance, the three heads are placed at very right, symmetrical angles: 30°, 150°, 270°. But, when you look more closely, there is a very subtle additional rotation. A rotation so subtle that it seems more accidental than intentional to me.
 
 ![Presentation-Ubuntu-logo-v2022-wrong](Presentation/Presentation-Ubuntu-logo-v2022-wrong.png)
 
-The current version of the Ubuntu logo, this 2022 version, has undergone a subtle, almost invisible rotation, and it looks like a mistake or an imperfection, IMHO. In comparison, the previous version from 2010 was made of perfect values everywhere. The 3 circles, or heads, had perfectly symmetrical rotation angles of 30°, 150°, and 270° degrees. But that's not the case here with this current version from 2022. The rotation angles are weird. It feels like a mistake. Those angles are roughly set at something like 32.75°, 152.75°, 272.75°...
+In comparison, the previous version from 2010 was made of perfect values everywhere. The 3 circles, or heads, had perfectly symmetrical rotation angles of 30°, 150°, and 270° degrees.
 
-![Presentation-Ubuntu-logo-v2024-twisted](Presentation/Presentation-Ubuntu-logo-v2024-twisted.png)
+Don't get me wrong: I like your new logo version from 2022, as I like the entire graphic design of the system. So I am not suggesting any major change to the concept of the logo, but just a redrawn version of the same logo. Just a few pixels of difference.
 
-If you wanted the logo to look less formal, less symmetrical, then I would suggest adding an obvious rotation, say 15 degrees. Otherwise, it just looks like a mistake to me.
+## Pure Core Version
 
-Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all and it clearly carries some significance, some positive values. I don't want to change anything to this concept. I don't even want this assymetrical alternative showed here. I just want to push this standard 2024 version as showed here on top of this page: [logo-v2024.svg](logo-v2024.svg). That's the same logo as the current one, but redone in a perfectly precise way.
+I created many versions but the core version is [logo-v2024.svg](logo-v2024.svg). You can check the code: it is pretty pure.
+
+WARNING: This core drawing is a white drawing on a transparent background, so you may need to change your desktop or GitHub from light to dark.
+
+![](/home/sebastien/snap/marktext/9/.config/marktext/images/2025-03-04-21-46-03-logo-v2024.png)
+
+Okay, it's just a logo. But it's the first thing I see when I start my computer. A well-designed logo will inspire all my work. Here are some excerpts from [Our brand values](https://design.ubuntu.com/brand) :
 
 > Ubuntu is crisp and clean in engineering and attitude. There is beauty in the precision of the process and product.
 
 > Our values should be evident wherever Ubuntu is encountered, whether online or via traditional marketing material.
 
-> The Ubuntu logo is striking and clear, and it represents the brand’s core
-> values.
+> The Ubuntu logo is striking and clear, and it represents the brand’s core values.
 
-source: https://design.ubuntu.com/brand
+## Alternate "Organic" Version
 
-### Method
+![Presentation-Ubuntu-logo-v2024-twisted](Presentation/Presentation-Ubuntu-logo-v2024-twisted.png)
+
+Else, if you really wanted the logo to look less formal, less symmetrical, then I would suggest adding an obvious rotation, let's say 10 degrees for example. Otherwise, it just looks like a mistake to me.
+
+## Working Method
 
 I tried to do things simply, using the appropriate tools, in order to simplify my operations and thus reduce the possibilities of errors.
 
@@ -41,13 +48,7 @@ I tried to do things simply, using the appropriate tools, in order to simplify m
 
 That's just a quick summary, of course.
 
-### URL resources
-
-version 2024: [design.ubuntu.com-v2024](design.ubuntu.com-v2024) (proposed new version)  
-version 2022: https://design.ubuntu.com/resources (current version)  
-version 2010: https://en.m.wikipedia.org/wiki/File:UbuntuCoF.svg (old version)  
-
-### Update your local files
+## Update Your Local Files
 
 **First**, [Download](https://github.com/SebastJava/Ubuntu-logo/archive/refs/heads/main.zip) this repository as a ZIP file and extract it.
 
@@ -60,7 +61,7 @@ cd ~/Downloads/Ubuntu-logo-main
 **Replace the "Show Apps" icon:**
 
 ```
-sudo cp start-here-symbolic.svg /usr/share/icons/Yaru/scalable/places/start-here-symbolic.svg
+sudo cp start-here-variants/start-here-symbolic.svg /usr/share/icons/Yaru/scalable/places/start-here-symbolic.svg
 ```
 
 NOTE: If you are using [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) you can easily choose your start icon from there. You can use the standard `start-here-symbolic.svg` or one of the variants in the `start-here-variants` directory.
@@ -68,8 +69,8 @@ NOTE: If you are using [Dash-to-Panel](https://extensions.gnome.org/extension/11
 **Boot sequence and login screen:**
 
 ```
-sudo cp ubuntu-logo-v2024-plymouth.png /usr/share/plymouth/themes/spinner/watermark.png
-sudo cp ubuntu-logo-v2024-plymouth.png /usr/share/plymouth/ubuntu-logo.png
+sudo cp ubuntu-logo-v2024-plymouth/ubuntu-logo-v2024-plymouth.png /usr/share/plymouth/themes/spinner/watermark.png
+sudo cp ubuntu-logo-v2024-plymouth/ubuntu-logo-v2024-plymouth.png /usr/share/plymouth/ubuntu-logo.png
 ```
 
 You must update your initramfs after having changed this Plymouth theme:
