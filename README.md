@@ -18,7 +18,6 @@ If you wanted the logo to look less formal, less symmetrical, then I would sugge
 
 Don't get me wrong, I think your logo is pretty good as is. It isn't ugly at all and it clearly carries some significance, some positive values. I don't want to change anything to this concept. I don't even want this assymetrical alternative showed here. I just want to push this standard 2024 version as showed here on top of this page: [logo-v2024.svg](logo-v2024.svg). That's the same logo as the current one, but redone in a perfectly precise way.
 
-> **Precise**
 > Ubuntu is crisp and clean in engineering and attitude. There is beauty in the precision of the process and product.
 
 > Our values should be evident wherever Ubuntu is encountered, whether online or via traditional marketing material.
@@ -83,4 +82,4 @@ WARNING: Please disable your Kernel Livepatch to avoid some weird Plymouth on fi
 
 RESTART your computer to see your updated logos on the boot sequence, login screen and dash.
 
-![Dash-example-2](Dash-example-3.png)
+![Dash-example-2](Presentation/Dash-example-3.png)
