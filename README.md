@@ -18,7 +18,7 @@ Don't get me wrong: I like your new logo version from 2022, as I like the entire
 
 ![Presentation-Ubuntu-logo-v2022-vs-v2024](Presentation/Presentation-Ubuntu-logo-v2022-vs-v2024.png)
 
-I created many versions but the core version is [logo-v2025-source.svg](logo-v2025-source.svg). You can check the code: it is pretty pure.
+I created many versions but the core version is [logo-v2025-plain.svg](logo-v2025-plain.svg). You can check the code: it is pretty pure.
 
 WARNING: This core drawing is a white drawing on a transparent background, so you may need to change your desktop or GitHub from light to dark.
 
