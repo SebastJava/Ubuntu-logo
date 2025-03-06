@@ -10,54 +10,54 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs6" />
+   id="defs6" />
   <rect
-     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-width:0;stroke-opacity:1"
-     id="rect1"
-     width="270"
-     height="430"
-     x="0"
-     y="0" />
+   style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-width:0;stroke-opacity:1"
+   id="rect1"
+   width="270"
+   height="430"
+   x="0"
+   y="0" />
   <circle
-     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:24;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     id="circle"
-     cx="142"
-     cy="278"
-     r="78" />
+   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:24;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+   id="circle"
+   cx="140"
+   cy="278"
+   r="78" />
   <circle
-     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     id="aura"
-     cx="64"
-     cy="278"
-     r="39" />
+   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+   id="aura"
+   cx="62"
+   cy="278"
+   r="39" />
   <circle
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     id="head"
-     cx="64"
-     cy="278"
-     r="27" />
+   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+   id="head"
+   cx="62"
+   cy="278"
+   r="27" />
   <use
-     x="0"
-     y="0"
-     xlink:href="#aura"
-     id="use1"
-     transform="rotate(120,142,278)" />
+   x="0"
+   y="0"
+   xlink:href="#aura"
+   id="use1"
+   transform="rotate(120,140,278)" />
   <use
-     x="0"
-     y="0"
-     xlink:href="#aura"
-     id="use2"
-     transform="rotate(-120,142,278)" />
+   x="0"
+   y="0"
+   xlink:href="#aura"
+   id="use2"
+   transform="rotate(-120,140,278)" />
   <use
-     x="0"
-     y="0"
-     xlink:href="#head"
-     id="use3"
-     transform="rotate(120,142,278)" />
+   x="0"
+   y="0"
+   xlink:href="#head"
+   id="use3"
+   transform="rotate(120,140,278)" />
   <use
-     x="0"
-     y="0"
-     xlink:href="#head"
-     id="use4"
-     transform="rotate(-120,142,278)" />
+   x="0"
+   y="0"
+   xlink:href="#head"
+   id="use4"
+   transform="rotate(-120,140,278)" />
 </svg>
