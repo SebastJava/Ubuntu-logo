@@ -38,20 +38,6 @@ Else, if you really wanted the logo to look less formal, less symmetrical, then 
 
 <br>
 
-## Working Method
-
-I tried to do things simply, using the appropriate tools, in order to simplify my operations and thus reduce the possibilities of errors.
-
-* **Everything was created in Inkscape,** on a semi-opaque layer above the original 2022 logo, in order to ensure very similar measurements.
-
-* The 3 small circles are identical duplicates. Their center of rotation is snapped to the center of rotation of the large circle. They rotate at exactly 120° from each other.
-
-* The large circle was converted to a path (Path > Stroke to path), then cut out using Path > Difference.
-
-That's just a quick summary, of course.
-
-<br>
-
 ## Update Your Local Files
 
 **First**, [Download](https://github.com/SebastJava/Ubuntu-logo/archive/refs/heads/main.zip) this repository as a ZIP file and extract it.
