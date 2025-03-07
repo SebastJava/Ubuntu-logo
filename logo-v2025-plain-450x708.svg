@@ -12,26 +12,26 @@
   <defs
    id="defs6" />
   <rect
-   style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-width:0;stroke-opacity:1"
+   style="stroke-width:0;stroke:none;fill:#e95420;"
    id="rect1"
    width="450"
    height="708"
    x="0"
    y="0" />
   <circle
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:40;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+   style="stroke-width:40;stroke:#ffffff;fill:none;"
    id="circle"
    cx="233"
    cy="465"
    r="130" />
   <circle
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+   style="stroke-width:0;stroke:none;fill:#e95420;"
    id="aura"
    cx="103"
    cy="465"
    r="65" />
   <circle
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+   style="stroke-width:0;stroke:none;fill:#ffffff;"
    id="head"
    cx="103"
    cy="465"
