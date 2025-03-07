@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   viewBox="0 0 450 716.66669"
+   viewBox="0 0 450 708"
    id="svg6"
    width="450"
-   height="716.66669"
+   height="708"
    xml:space="preserve"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
@@ -15,49 +15,49 @@
    style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-width:0;stroke-opacity:1"
    id="rect1"
    width="450"
-   height="716.66669"
+   height="708"
    x="0"
    y="0" />
   <circle
    style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:40;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
    id="circle"
    cx="233"
-   cy="463"
+   cy="454"
    r="130" />
   <circle
    style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
    id="aura"
    cx="103"
-   cy="463"
+   cy="454"
    r="65" />
   <circle
    style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
    id="head"
    cx="103"
-   cy="463"
+   cy="454"
    r="45" />
   <use
    x="0"
    y="0"
    xlink:href="#aura"
    id="use1"
-   transform="rotate(120,233,463)" />
+   transform="rotate(120,233,454)" />
   <use
    x="0"
    y="0"
    xlink:href="#aura"
    id="use2"
-   transform="rotate(-120,233,463)" />
+   transform="rotate(-120,233,454)" />
   <use
    x="0"
    y="0"
    xlink:href="#head"
    id="use3"
-   transform="rotate(120,233,463)" />
+   transform="rotate(120,233,454)" />
   <use
    x="0"
    y="0"
    xlink:href="#head"
    id="use4"
-   transform="rotate(-120,233,463)" />
+   transform="rotate(-120,233,454)" />
 </svg>
