@@ -54,8 +54,6 @@ cd ~/Downloads/Ubuntu-logo-main
 sudo cp Do-It-Yourself/start-here-symbolic.svg /usr/share/icons/Yaru/scalable/places/start-here-symbolic.svg
 ```
 
-NOTE: If you are using [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) you can easily choose your start icon from there. You can use the standard `start-here-symbolic.svg` or one of the variants in the `start-here-variants` directory.
-
 **Boot sequence and login screen:**
 
 ```
