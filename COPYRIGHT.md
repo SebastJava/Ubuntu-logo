@@ -7,6 +7,6 @@ This logo differs from the official version only in a very subtle way. The goal 
 
 LEGAL REFERENCES:
 
-[https://ubuntu.com/legal/trademarks](https://ubuntu.com/legal/trademarks)
-[https://ubuntu.com/legal/intellectual-property-policy](https://ubuntu.com/legal/intellectual-property-policy)
-[https://design.ubuntu.com/brand/](https://design.ubuntu.com/brand/)
+- [https://ubuntu.com/legal/trademarks](https://ubuntu.com/legal/trademarks)
+- [https://ubuntu.com/legal/intellectual-property-policy](https://ubuntu.com/legal/intellectual-property-policy)
+- [https://design.ubuntu.com/brand/](https://design.ubuntu.com/brand/)
