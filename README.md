@@ -2,7 +2,7 @@
 
 <br>
 
-## The Ubuntu Logo Redone with absolute precision
+## The Ubuntu Logo Redone With Absolute Precision
 
 Your logo has a good concept and looks good. But it looks subtly imperfect, to me. At first glance, the three heads are placed at very right, symmetrical angles: 30°, 150°, 270°. But, when you look more closely, there is a very subtle additional rotation. A rotation so subtle that it seems more accidental than intentional to me.
 
@@ -14,7 +14,7 @@ Don't get me wrong: I like your new logo version from 2022, as I like the entire
 
 <br>
 
-## The Canonical/Ubuntu logo version 2025
+## The Canonical/Ubuntu Logo Version 2025
 
 ![Presentation-Ubuntu-logo-v2022-vs-v2025](Presentation/Presentation-Ubuntu-logo-v2022-vs-v2025.png)
 
