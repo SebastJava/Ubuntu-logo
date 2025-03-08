@@ -2,9 +2,9 @@
 
 <br>
 
-## The Ubuntu Logo Redone With Absolute Precision
+# The Ubuntu Logo Rebuilt From Scratch
 
-Your logo has a good concept and looks good. But it looks subtly imperfect, to me. At first glance, the three heads are placed at very right, symmetrical angles: 30°, 150°, 270°. But, when you look more closely, there is a very subtle additional rotation. A rotation so subtle that it seems more accidental than intentional to me.
+Your logo has a good concept and looks good. But it looks subtly imperfect, to me. At first glance, the three heads are placed at straigth, symmetrical angles: 30°, 150°, 270°. But, when you look more closely, there is a very subtle additional rotation. A rotation so subtle that it seems more accidental than intentional to me.
 
 ![Presentation-Ubuntu-logo-v2022-wrong](Presentation/Presentation-Ubuntu-logo-v2022-wrong.png)
 
@@ -14,11 +14,13 @@ Don't get me wrong: I like your new logo version from 2022, as I like the entire
 
 <br>
 
-## The Canonical/Ubuntu Logo Version 2025
+## Version 2025: Same Look But Precise Engineering
 
 ![Presentation-Ubuntu-logo-v2022-vs-v2025](Presentation/Presentation-Ubuntu-logo-v2022-vs-v2025.png)
 
-I created many versions but the core version is [logo-v2025-plain-450x708.svg](logo-v2025-plain-450x708.svg). You can check the code: it is pretty pure.
+I created many versions but the core version is [logo-v2025-plain-450x708.svg](logo-v2025-plain-450x708.svg). You can check the SVG code: that's pretty pure. You can instantly see that's absolute precision.
+
+And please don't be too surprised by the odd dimensions: the goal was to remake a logo very similar to the 2022 version, but using only integers. And anyway, SVG stands for "Scalable Vector Graphics", so you can resize it to your needs.
 
 Okay, it's just a logo. But this logo is the first thing I see when I start my computer. A well-designed logo will inspire all my work. Here are some excerpts from [Our brand values](https://design.ubuntu.com/brand) :
 
@@ -27,6 +29,8 @@ Okay, it's just a logo. But this logo is the first thing I see when I start my c
 > Our values should be evident wherever Ubuntu is encountered, whether online or via traditional marketing material.
 
 > The Ubuntu logo is striking and clear, and it represents the brand’s core values.
+
+So I expect a logo that is perfectly well coded and displayed.
 
 <br>
 
